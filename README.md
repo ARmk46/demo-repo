@@ -1,2 +1,2 @@
 # demo-repo
-Github demo repository
+Github demo repository, made to understand read.md file
